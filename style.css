@@ -32,3 +32,11 @@ input,button{
     border-radius: 4px;
     background: white;
 }
+
+.paragrafo-resultado, .bad{
+    background-color: rgb(102, 133, 218);
+    padding: 10px 20px;
+}
+.bad{
+    background-color: rgb(93, 167, 121);
+}
